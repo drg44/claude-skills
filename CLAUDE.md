@@ -1,5 +1,13 @@
 # CLAUDE.md
 
+## Loft 331 (Dave's brand work)
+
+Any request for a **Loft 331** image, thumbnail, share/OG image, banner, post, or content calendar MUST use the
+`loft331-image` (one image) or `loft331-social` (two-week cycle) skill — auto-loaded from `.claude/skills/`,
+commands `/loft-image`, `/loft-cycle`, `/loft-brand`. They render with the kit in `drg44/loft331-social`
+(`/home/user/loft331-social` in the cloud, `~/loft331-social` on a Mac; clone it if missing).
+Never restyle from loft331.ca, never invent a palette or logo. Source of truth + sync: `loft331/README.md`.
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Purpose

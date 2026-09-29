@@ -825,6 +825,7 @@ When I correct you, or you catch yourself making a mistake: before continuing ad
 - Every recommendation to Dave must include a source link that was actually opened and checked; if it can't be checked, say so.
 - Source links for Dave must be free, plain-language pages he can read without a paywall or login, not academic or journal pages.
 - Explain the idea itself in plain words first; never hand Dave links in place of an explanation.
+- Dave's clients are mixed small businesses (trades, clinics, services, retail), not factories; never recommend manufacturing-oriented tools or templates.
 
 ## Additional Resources
 

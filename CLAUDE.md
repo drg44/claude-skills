@@ -826,6 +826,7 @@ When I correct you, or you catch yourself making a mistake: before continuing ad
 - Source links for Dave must be free, plain-language pages he can read without a paywall or login, not academic or journal pages.
 - Explain the idea itself in plain words first; never hand Dave links in place of an explanation.
 - Dave's clients are mixed small businesses (trades, clinics, services, retail), not factories; never recommend manufacturing-oriented tools or templates.
+- If a request needs something this environment can't do (e.g. open web pages), say so in the first sentence, then give the best answer possible from what is known.
 
 ## Additional Resources
 

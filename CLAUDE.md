@@ -821,6 +821,7 @@ When I correct you, or you catch yourself making a mistake: before continuing ad
 ## Lessons
 
 - (Claude adds rules here)
+- When Dave asks for something "down to earth, organic, holistic", give a plain-language conversation-based method with no jargon, diagrams or named consulting frameworks.
 
 ## Additional Resources
 
